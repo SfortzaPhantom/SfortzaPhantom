@@ -11,4 +11,4 @@ A bit about me:
 
 Currently working with TheOneTranslator team (https://vk.com/theonetranslator).
 
-See [this Carrd](sfortzaphantom.carrd.co) for more information.
+See [this Carrd](https://sfortzaphantom.carrd.co) for more information.

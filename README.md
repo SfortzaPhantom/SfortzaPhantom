@@ -9,6 +9,6 @@ A bit about me:
 - translation interests: practically everything you want/need to translate, preferably Minecraft mods and story-driven games;
 - I usually translate things I'm interested in for free, for commerical issues contact me at my Discord (see Carrd).
 
-Currently working with TheOneTranslator team (https://vk.com/theonetranslator).
+Currently I work with TheOneTranslator team (https://vk.com/theonetranslator) and IRL for an engineering company.
 
 See [this Carrd](https://sfortzaphantom.carrd.co) for more information.

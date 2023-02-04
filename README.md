@@ -11,4 +11,4 @@ A bit about me:
 
 Currently I work with TheOneTranslator team (https://vk.com/theonetranslator) and IRL for an engineering company.
 
-See [this Carrd](https://sfortzaphantom.carrd.co) for more information.
+See [this Carrd](https://sfortzaphantom.carrd.co) for more information and [this repo](https://github.com/SfortzaPhantom/Working-Experience) for my experience.

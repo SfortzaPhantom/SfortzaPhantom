@@ -1,9 +1,8 @@
-I'm doing a lot of translations (zero to none).
+Welcome here - or from here.
 
-A bit about me:
+Basic information:
 
 - 21 y.o.
-- pronouns: he/him; they/them
 - interests: Python (junior level), translation (professional level);
 - professional translator/proofreader (EN -> RU / RU -> EN);
 - translation interests: practically everything you want/need to translate, preferably Minecraft mods and story-driven games;
@@ -12,6 +11,7 @@ A bit about me:
 Workspaces:
 - [TheOneTranslator team](https://vk.com/theonetranslator);
 - [GravitLauncher community](https://discord.gg/gravitlauncher-community-853340557522370561) (for small gigs);
+- [Interworld Inspection project](https://discord.gg/PgE96x5RA6) (personal RP community and neural network generation think-tank);
 - IRL (import&export manager).
 
 See [this Carrd](https://sfortzaphantom.carrd.co) for more information and [this repo](https://github.com/SfortzaPhantom/Working-Experience) for my experience.

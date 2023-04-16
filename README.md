@@ -9,7 +9,7 @@ Basic information:
 - for commercial inquiries: sfortza#1806
 
 Workspaces:
-- [TheOneTranslator team](https://vk.com/theonetranslator);
+- [TheOneTranslator team](https://vk.com/theonetranslator) (senior translator, proofreader);
 - [GravitLauncher community](https://discord.gg/gravitlauncher-community-853340557522370561) (for small gigs);
 - [Interworld Inspection project](https://discord.gg/PgE96x5RA6) (personal RP community and neural network generation think-tank);
 - IRL (import&export manager).

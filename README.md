@@ -2,7 +2,7 @@ Welcome here - or from here.
 
 Basic information:
 
-- 21 y.o.
+- 22 y.o.
 - interests: translation (professional level);
 - professional translator/proofreader (EN -> RU / RU -> EN);
 - translation interests: practically everything you want/need to translate, preferably Minecraft mods and story-driven games;
